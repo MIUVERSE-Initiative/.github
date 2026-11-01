@@ -36,4 +36,4 @@ This initiative is primarily managed by the Division of Biomics Research at [Gen
 ## Connect With Us
 We currently yet to have social media, but you can get in touch with us with this GitHub (for now).
 
-GitHub: https://github.com/miuverse-research
+GitHub: https://github.com/miuverse-initiative
